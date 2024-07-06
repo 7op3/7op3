@@ -9,4 +9,5 @@ Below are some links to other places you can find me.
 <br><a rel="me" href="https://instagram.com/idkrope">Instagram</a>
 <br><a rel="me" href="https://bark.lgbt/@moe">Mastodon</a>
 <br><a rel="me" href="https://ayo.so/7o">Everything else.</a>
-<br>[![Discord Presence](https://lanyard.cnrad.dev/api/882124409945587773?bg=000&idleMessage=Prob%20asleep%20or%20afk%20(￣﹃￣)...)](https://discord.com/users/882124409945587773)
+<br>
+<br>[![Discord Presence](https://lanyard.cnrad.dev/api/882124409945587773?bg=000&borderRadius=30px&idleMessage=Prob%20asleep%20or%20afk%20(￣﹃￣)...)](https://discord.com/users/882124409945587773)
